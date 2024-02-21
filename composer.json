@@ -3,6 +3,7 @@
     "description": "Projeto que Busca os cursos no site da Alura",
     "type": "library",
     "autoload": {
+        "files": ["./src/functions.php"],
         "classmap": ["./src/Mensagens.php"],
         "psr-4": {
             "Schindlerth\\BuscadorDeCursos\\": "src/"
