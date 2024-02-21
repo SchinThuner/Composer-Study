@@ -1,0 +1,17 @@
+{
+    "name": "schindlerth/buscador-cursos",
+    "description": "Projeto que Busca os cursos no site da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Schindlerth\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Schindler",
+            "email": "schin.thuner@gmail.com"
+        }
+    ],
+    "require": {}
+}
