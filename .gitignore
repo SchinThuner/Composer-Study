@@ -3,5 +3,3 @@ vendor/guzzlehttp*
 vendor/psr*
 vendor/ralouphie*
 vendor/symfony*
-vendor/composer*
-vendor/
