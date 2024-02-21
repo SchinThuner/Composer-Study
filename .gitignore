@@ -4,3 +4,10 @@ vendor/psr*
 vendor/ralouphie*
 vendor/symfony*
 vendor/composer*
+vendor/theseer
+vendor/sebastian
+vendor/phpunit
+vendor/phar-io
+vendor/nikic
+vendor/myclabs
+vendor/bin
