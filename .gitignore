@@ -4,4 +4,4 @@ vendor/psr*
 vendor/ralouphie*
 vendor/symfony*
 vendor/composer*
-vendor/composer/autoload_*
+vendor/
