@@ -9,6 +9,7 @@ vendor/sebastian*
 vendor/phpunit*
 vendor/phar-io*
 vendor/nikic*
-vendor/myclabs*
+vendor/nikic/
+vendor/myclabs/
 vendor/bin*
 vendor/masterminds*
