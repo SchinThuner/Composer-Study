@@ -1,5 +1,6 @@
 <?php
 
+// usando o no-dev ou o --dev podemos definir o ambiente de uso da dependencia ao instalar ela.
 //  composer install -> instala as depedencias presentes no composer.lock
 //  composer update -> atualiza o composer.lock instalando oque tem no arquivo composer.json
 //  composer dump-autoload -> atualiza o autoload presente no composer.json para que o autoloader
