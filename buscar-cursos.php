@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 // usando o no-dev ou o --dev podemos definir o ambiente de uso da dependencia ao instalar ela.
